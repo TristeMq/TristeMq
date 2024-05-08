@@ -1,6 +1,6 @@
 ### Привет, меня зовут Глеб и эта страница с моими скромными проектами и различными активностями
 
-
+Мое резюме: https://drive.google.com/file/d/1PHTAWnsudZCzROmMAFEWNLZEpOQOd4Ou/view?usp=sharing
 
 Мои выступления: 
 1) Meetup на Yappi Days 2024: https://www.youtube.com/watch?v=mfkhHIaeQk
