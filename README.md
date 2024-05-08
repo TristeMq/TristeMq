@@ -1,5 +1,10 @@
-### Hi there 👋
+### Привет, меня зовут Глеб и эта страница с моими скромными проектами и различными активностями
 
+
+
+Мои выступления: 
+1) Meetup на Yappi Days 2024: https://www.youtube.com/watch?v=mfkhHIaeQk
+2) X5 Data Science meetup: https://www.youtube.com/watch?v=bcgFvx6HZnQ
 <!--
 **TristeMq/TristeMq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
