@@ -6,6 +6,6 @@
 1) Meetup на Yappi Days 2024: https://www.youtube.com/watch?v=mfkhHIaeQk
 2) X5 Data Science meetup: https://www.youtube.com/watch?v=bcgFvx6HZnQ
 
-Моё обучение:
+Моё дополнительное обучение:
 1) System Design: https://lab.karpov.courses/certificate/fe34ca2c-15e7-471b-b216-0d961a467824/en/
    
