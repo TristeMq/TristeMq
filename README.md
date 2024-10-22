@@ -8,4 +8,5 @@
 
 Моё дополнительное обучение:
 1) System Design: https://lab.karpov.courses/certificate/fe34ca2c-15e7-471b-b216-0d961a467824/en/
+2) Data Engineering: https://lab.karpov.courses/certificate/3e0b1ccb-2819-44c4-a996-903f6fbf608a/en/
    
